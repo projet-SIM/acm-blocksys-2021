@@ -3,8 +3,8 @@ message: "If you use this software, please cite it as below."
 authors:
   - family-names: Gerrits
     given-names: Luc
-  - family-names: Naves Samuel
-    given-names: Cyril
+  - family-names: Samuel
+    given-names: Cyril Naves
 
 title: "Experimental Scalability Study of Consortium Blockchains with BFT Consensus for IoT Automotive Use Case"
 version: 2.0.4
